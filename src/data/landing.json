@@ -1,0 +1,414 @@
+{
+  "meta": {
+    "title": "Nexcent — Lessons and insights from 8 years",
+    "description": "Where to grow your business as a photographer: site or social media? Manage your entire community in a single system with Nexcent."
+  },
+  "header": {
+    "logo": {
+      "src": "/images/logo-dark.svg",
+      "alt": "Nexcent",
+      "width": 154,
+      "height": 24
+    },
+    "navLinks": [
+      { "label": "Home", "href": "#home" },
+      { "label": "Service", "href": "#service" },
+      { "label": "Feature", "href": "#feature" },
+      { "label": "Product", "href": "#product" },
+      { "label": "Testimonial", "href": "#testimonial" },
+      { "label": "FAQ", "href": "#faq" }
+    ],
+    "actions": [
+      { "label": "Login", "href": "#login", "variant": "ghost" },
+      { "label": "Sign up", "href": "#signup", "variant": "primary" }
+    ],
+    "mobileMenuLabel": "Open menu"
+  },
+  "hero": {
+    "slides": [
+      {
+        "id": "slide-1",
+        "title": [
+          { "text": "Lessons and insights " },
+          { "text": "from 8 years", "highlight": true }
+        ],
+        "description": "Where to grow your business as a photographer: site or social media?",
+        "cta": {
+          "label": "Register",
+          "href": "#register",
+          "variant": "primary"
+        },
+        "image": {
+          "src": "/images/hero.svg",
+          "alt": "Person reviewing business insights on a large monitor",
+          "width": 391,
+          "height": 407
+        }
+      }
+    ]
+  },
+  "clients": {
+    "title": "Our Clients",
+    "description": "We have been working with some Fortune 500+ clients",
+    "logos": [
+      {
+        "src": "/images/clients/client-1.svg",
+        "alt": "Client logo 1",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "src": "/images/clients/client-2.svg",
+        "alt": "Client logo 2",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "src": "/images/clients/client-3.svg",
+        "alt": "Client logo 3",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "src": "/images/clients/client-4.svg",
+        "alt": "Client logo 4",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "src": "/images/clients/client-5.svg",
+        "alt": "Client logo 5",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "src": "/images/clients/client-6.svg",
+        "alt": "Client logo 6",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "src": "/images/clients/client-3.svg",
+        "alt": "Client logo 7",
+        "width": 48,
+        "height": 48
+      }
+    ]
+  },
+  "community": {
+    "title": "Manage your entire community in a single system",
+    "description": "Who is Nextcent suitable for?",
+    "cards": [
+      {
+        "id": "membership",
+        "icon": {
+          "src": "/images/icons/community-1.svg",
+          "alt": "Membership organisations icon",
+          "width": 65,
+          "height": 56
+        },
+        "title": "Membership Organisations",
+        "description": "Our membership management software provides full automation of membership renewals and payments"
+      },
+      {
+        "id": "associations",
+        "icon": {
+          "src": "/images/icons/community-2.svg",
+          "alt": "National associations icon",
+          "width": 65,
+          "height": 56
+        },
+        "title": "National Associations",
+        "description": "Our membership management software provides full automation of membership renewals and payments"
+      },
+      {
+        "id": "clubs",
+        "icon": {
+          "src": "/images/icons/community-3.svg",
+          "alt": "Clubs and groups icon",
+          "width": 65,
+          "height": 56
+        },
+        "title": "Clubs And Groups",
+        "description": "Our membership management software provides full automation of membership renewals and payments"
+      }
+    ]
+  },
+  "features": [
+    {
+      "id": "pixelgrade",
+      "title": "The unseen of spending three years at Pixelgrade",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet justo ipsum. Sed accumsan quam vitae est varius fringilla. Pellentesque placerat vestibulum lorem sed porta. Nullam mattis tristique iaculis. Nullam pulvinar sit amet risus pretium auctor. Etiam quis massa pulvinar, aliquam quam vitae, tempus sem. Donec elementum pulvinar odio.",
+      "cta": {
+        "label": "Learn More",
+        "href": "#pixelgrade",
+        "variant": "primary"
+      },
+      "image": {
+        "src": "/images/feature-1.svg",
+        "alt": "People unlocking community growth",
+        "width": 442,
+        "height": 328
+      },
+      "imagePosition": "left"
+    },
+    {
+      "id": "footer-design",
+      "title": "How to design your site footer like we did",
+      "description": "Donec a eros justo. Fusce egestas tristique ultrices. Nam tempor, augue nec tincidunt molestie, massa nunc varius arcu, at scelerisque elit erat a magna. Donec quis erat at libero ultrices mollis. In hac habitasse platea dictumst. Vivamus vehicula leo dui, at porta nisi facilisis finibus. In euismod augue vitae nisi ultricies, non aliquet urna tincidunt. Integer in nisi eget nulla commodo faucibus efficitur quis massa. Praesent felis est, finibus et nisi ac, hendrerit venenatis libero. Donec consectetur faucibus ipsum id gravida.",
+      "cta": {
+        "label": "Learn More",
+        "href": "#footer-design",
+        "variant": "primary"
+      },
+      "image": {
+        "src": "/images/feature-2.svg",
+        "alt": "Person interacting with a mobile product interface",
+        "width": 442,
+        "height": 433
+      },
+      "imagePosition": "left"
+    }
+  ],
+  "stats": {
+    "title": [
+      { "text": "Helping a local " },
+      { "text": "business reinvent itself", "highlight": true }
+    ],
+    "description": "We reached here with our hard work and dedication",
+    "items": [
+      {
+        "id": "members",
+        "icon": {
+          "src": "/images/icons/members.svg",
+          "alt": "Members",
+          "width": 48,
+          "height": 48
+        },
+        "value": "2,245,341",
+        "label": "Members"
+      },
+      {
+        "id": "clubs",
+        "icon": {
+          "src": "/images/icons/clubs.svg",
+          "alt": "Clubs",
+          "width": 48,
+          "height": 48
+        },
+        "value": "46,328",
+        "label": "Clubs"
+      },
+      {
+        "id": "events",
+        "icon": {
+          "src": "/images/icons/event-bookings.svg",
+          "alt": "Event Bookings",
+          "width": 48,
+          "height": 48
+        },
+        "value": "828,867",
+        "label": "Event Bookings"
+      },
+      {
+        "id": "payments",
+        "icon": {
+          "src": "/images/icons/payments.svg",
+          "alt": "Payments",
+          "width": 48,
+          "height": 48
+        },
+        "value": "1,926,436",
+        "label": "Payments"
+      }
+    ]
+  },
+  "testimonial": {
+    "image": {
+      "src": "/images/testimonial.jpeg",
+      "alt": "Tesla customer case study",
+      "width": 326,
+      "height": 326
+    },
+    "quote": "Maecenas dignissim justo eget nulla rutrum molestie. Maecenas lobortis sem dui, vel rutrum risus tincidunt ullamcorper. Proin eu enim metus. Vivamus sed libero ornare, tristique quam in, gravida enim. Nullam ut molestie arcu, at hendrerit elit. Morbi laoreet elit at ligula molestie, nec molestie mi blandit. Suspendisse cursus tellus sed augue ultrices, quis tristique nulla sodales. Suspendisse eget lorem eu turpis vestibulum pretium. Suspendisse potenti. Quisque malesuada enim sapien, vitae placerat ante feugiat eget. Quisque vulputate odio neque, eget efficitur libero condimentum id. Curabitur id nibh id sem dignissim finibus ac sit amet magna.",
+    "author": "Tim Smith",
+    "role": "British Dragon Boat Racing Association",
+    "logos": [
+      {
+        "src": "/images/clients/client-1.svg",
+        "alt": "Customer logo 1",
+        "width": 40,
+        "height": 40
+      },
+      {
+        "src": "/images/clients/client-2.svg",
+        "alt": "Customer logo 2",
+        "width": 40,
+        "height": 40
+      },
+      {
+        "src": "/images/clients/client-3.svg",
+        "alt": "Customer logo 3",
+        "width": 40,
+        "height": 40
+      },
+      {
+        "src": "/images/clients/client-4.svg",
+        "alt": "Customer logo 4",
+        "width": 40,
+        "height": 40
+      },
+      {
+        "src": "/images/clients/client-5.svg",
+        "alt": "Customer logo 5",
+        "width": 40,
+        "height": 40
+      },
+      {
+        "src": "/images/clients/client-6.svg",
+        "alt": "Customer logo 6",
+        "width": 40,
+        "height": 40
+      }
+    ],
+    "cta": {
+      "label": "Meet all customers",
+      "href": "#customers"
+    }
+  },
+  "blog": {
+    "title": "Caring is the new marketing",
+    "description": "The Nexcent blog is the best place to read about the latest membership insights, trends and more. See who's joining the community, read about how our community are increasing their membership income and lot's more.",
+    "posts": [
+      {
+        "id": "post-1",
+        "title": "Creating Streamlined Safeguarding Processes with OneRen",
+        "image": {
+          "src": "/images/blog-1.jpeg",
+          "alt": "Laptop on a wooden desk",
+          "width": 368,
+          "height": 286
+        },
+        "href": "#blog-1",
+        "ctaLabel": "Readmore"
+      },
+      {
+        "id": "post-2",
+        "title": "What are your safeguarding responsibilities and how can you manage them?",
+        "image": {
+          "src": "/images/blog-2.jpeg",
+          "alt": "Laptop with analytics dashboard",
+          "width": 368,
+          "height": 286
+        },
+        "href": "#blog-2",
+        "ctaLabel": "Readmore"
+      },
+      {
+        "id": "post-3",
+        "title": "Revamping the Membership Model with Triathlon Australia",
+        "image": {
+          "src": "/images/blog-3.jpeg",
+          "alt": "Laptop near a window",
+          "width": 368,
+          "height": 286
+        },
+        "href": "#blog-3",
+        "ctaLabel": "Readmore"
+      }
+    ]
+  },
+  "cta": {
+    "title": "Pellentesque suscipit fringilla libero eu.",
+    "button": {
+      "label": "Get a Demo",
+      "href": "#demo",
+      "variant": "primary"
+    }
+  },
+  "footer": {
+    "logo": {
+      "src": "/images/logo-light.svg",
+      "alt": "Nexcent",
+      "width": 154,
+      "height": 24
+    },
+    "copyright": [
+      "Copyright © 2020 Nexcent ltd.",
+      "All rights reserved"
+    ],
+    "socials": [
+      {
+        "id": "instagram",
+        "label": "Instagram",
+        "href": "#instagram",
+        "icon": {
+          "src": "/images/socials/instagram.svg",
+          "alt": "Instagram",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "id": "dribbble",
+        "label": "Dribbble",
+        "href": "#dribbble",
+        "icon": {
+          "src": "/images/socials/dribbble.svg",
+          "alt": "Dribbble",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "id": "twitter",
+        "label": "Twitter",
+        "href": "#twitter",
+        "icon": {
+          "src": "/images/socials/twitter.svg",
+          "alt": "Twitter",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "id": "youtube",
+        "label": "YouTube",
+        "href": "#youtube",
+        "icon": {
+          "src": "/images/socials/youtube.svg",
+          "alt": "YouTube",
+          "width": 32,
+          "height": 32
+        }
+      }
+    ],
+    "columns": [
+      {
+        "title": "Company",
+        "links": [
+          { "label": "About us", "href": "#about" },
+          { "label": "Blog", "href": "#blog" },
+          { "label": "Contact us", "href": "#contact" },
+          { "label": "Pricing", "href": "#pricing" },
+          { "label": "Testimonials", "href": "#testimonial" }
+        ]
+      },
+      {
+        "title": "Support",
+        "links": [
+          { "label": "Help center", "href": "#help" },
+          { "label": "Terms of service", "href": "#terms" },
+          { "label": "Legal", "href": "#legal" },
+          { "label": "Privacy policy", "href": "#privacy" },
+          { "label": "Status", "href": "#status" }
+        ]
+      }
+    ],
+    "newsletter": {
+      "title": "Stay up to date",
+      "placeholder": "Your email address",
+      "submitLabel": "Subscribe"
+    }
+  }
+}
