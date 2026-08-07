@@ -1,6 +1,8 @@
 # Nexcent Landing Page
 
-Pixel-faithful recreation of the [Minimal Landing Page Design](https://www.figma.com/community/file/1222060007934600841/minimal-landing-page-design-website-home-page-design-agency-website-ui-design) (Nexcent) community Figma file, built with Next.js App Router, TypeScript, and Tailwind CSS.
+A simple marketing website for **Nexcent**, a product that helps organizations manage memberships and community growth.
+
+The page covers the main product story in one scroll: hero intro, client logos, who it’s for, key features, impact stats, a customer testimonial, blog highlights, and a final call to action. It’s built with Next.js, TypeScript, and Tailwind CSS, and all text/images come from a JSON file so content stays easy to update.
 
 ## Stack
 
