@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
+import { getLandingContent } from "@/lib/content";
 import "./globals.css";
 
 const inter = Inter({
@@ -8,9 +9,11 @@ const inter = Inter({
   display: "swap",
 });
 
+const content = getLandingContent();
+
 export const metadata: Metadata = {
-  title: "Nexcent",
-  description: "Nexcent landing page",
+  title: content.meta.title,
+  description: content.meta.description,
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
